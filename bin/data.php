@@ -14,7 +14,7 @@ echo '<stuff>' . "\n";
 
 
 $res = mysql_query("SELECT
-  s.PlayerUID,
+	s.PlayerUID,
 	s.Model,
 	s.Worldspace,
 	s.Inventory,

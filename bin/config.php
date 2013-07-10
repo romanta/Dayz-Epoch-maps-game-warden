@@ -11,7 +11,7 @@ class DatabaseConnection {
   //Database Username
   private $db_user = "name";
   //Database Password
-  private $db_pass = "password";
+  private $db_pass = "passwords";
   //Database name
   private $db_name = "dayz_epoch";
 
